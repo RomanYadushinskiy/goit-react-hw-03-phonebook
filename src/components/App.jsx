@@ -61,7 +61,7 @@ deleteContact = id => {
           fontSize: 20,
           color: '#010101',
         }}>
-        <h1>Phonebook</h1>
+        <h1>Phonebook frthyrd</h1>
         <ContactForm onSubmit={this.formSubmitHandler} />
 
         <h2>Contacts</h2>
